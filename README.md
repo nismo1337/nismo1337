@@ -1,6 +1,6 @@
 ![wowowowow](https://cdn.discordapp.com/attachments/807370490389856299/1087900596373295164/standard.gif)
 
-
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/wakatime?username=nismo1337&theme=github_dark&layout=compact&hide=other,%20ini,%20cshtml,%20toml,%20git%20config,xml,xaml,markdown,json&custom_title=My%20Lifetime%20Programming%20Stats&#gh-dark-mode-only">
 
 <!--
 **nismo1337/nismo1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
