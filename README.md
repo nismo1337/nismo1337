@@ -1,6 +1,7 @@
 ![wowowowow](https://cdn.discordapp.com/attachments/807370490389856299/1087900596373295164/standard.gif)
-
+<p align="center">
 ![nismo1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark)
+</p>
 
 
 <!--
