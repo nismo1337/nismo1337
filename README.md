@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![wowowowow](https://cdn.discordapp.com/attachments/807370490389856299/1087900596373295164/standard.gif)]
+![wowowowow](https://cdn.discordapp.com/attachments/807370490389856299/1087900596373295164/standard.gif)
 
 
 
