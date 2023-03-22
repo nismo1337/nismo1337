@@ -1,9 +1,6 @@
-![wowowowow](https://cdn.discordapp.com/attachments/807370490389856299/1087900596373295164/standard.gif)
-
-![nismo1337's GitHub stats](https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark)
 ### Hi, welcome to my GitHub
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=its-jaxx&show_icons=true&theme=radical&hide=contribs,issues">](https://metrics.lecoq.io/its-jaxx?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark&hide=contribs,issues">](https://metrics.lecoq.io/its-jaxx?template=classic)
 
 ## I'm **nismo1337**, and I'm a developer.
 - 15 y/o
