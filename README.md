@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark&hide=contribs,issues">
-<img align="right" width="35%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+
 
 ## I'm **nismo1337**, and I'm a developer.
 - 15 y/o
@@ -23,3 +23,4 @@
 ### Project that I'm currently working on 
 
 - <a href="https://github.com/nismo1337/Recovery-Tool" target="_blank" rel="noopener noreferrer">Recovery Tool</a>
+<img align="right" width="35%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
