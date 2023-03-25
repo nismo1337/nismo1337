@@ -20,7 +20,9 @@
 <br/>
 <img align="right" width="10%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
-### Project that I'm currently working on 
+### Projects that I'm currently working on 
 
 - <a href="https://github.com/nismo1337/Recovery-Tool" target="_blank" rel="noopener noreferrer">Recovery Tool</a>
+- <a href="https://github.com/nismo1337/MCSkin" target="_blank" rel="noopener noreferrer">MCSkin</a>
+
 
