@@ -18,7 +18,7 @@
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <br/>
-<img align="right" width="20%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
+<img align="right" width="10%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
 
 ### Project that I'm currently working on 
 
