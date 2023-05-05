@@ -1,7 +1,7 @@
 ### Hi, welcome to my GitHub
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark&hide=contribs,issues">
-<img src="ttps://card.yuy1n.io/card/76561198219797419/tokyonight,en,games,badges">
+<img src="https://card.yuy1n.io/card/76561198219797419/tokyonight,en,games,badges">
 
 
 ## I'm **nismo1337**, and I'm a developer.
