@@ -22,7 +22,7 @@
 
 ### Projects that I'm currently working on 
 
-- <a href="https://github.com/nismo1337/Recovery-Tool" target="_blank" rel="noopener noreferrer">Recovery Tool</a>
-- <a href="https://github.com/nismo1337/MCSkin" target="_blank" rel="noopener noreferrer">MCSkin</a>
+- <a href="" target="_blank" rel="noopener noreferrer">nothing :(</a>
+
 
 
