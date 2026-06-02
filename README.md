@@ -1,29 +1,10 @@
-### Hi, welcome to my GitHub
+<img align="right" width="75" src="https://media.tenor.com/8HaTOA3o0OoAAAAi/pixel-cat.gif"  />
+<h1 align="left">〉hi, welcome to my github</h1>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nismo1337&show_icons=true&theme=dark&hide=contribs,issues">
-<img src="https://card.yuy1n.io/card/76561198219797419/tokyonight,en,games,badges">
-
-
-## I'm **nismo1337**, and I'm a developer.
-- 18 y/o
-- <a href="https://discordapp.com/users/294488126641012737/" target="_blank" rel="noopener noreferrer">My Discord</a>
-- <a href="https://steamcommunity.com/profiles/76561198219797419/" target="_blank" rel="noopener noreferrer">My Steam</a>
-- <a href="https://nismo1337.xyz/" target="_blank" rel="noopener noreferrer">My Website</a>
-
-### Languages that I'm currently working with 💻
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="C#" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="C++" width="32px" src="https://user-images.githubusercontent.com/45857590/113528813-1137dd80-95c2-11eb-8192-b2118e99bb05.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<br/>
-<img align="right" width="10%" src="https://github.githubassets.com/images/mona-loading-dark.gif">
-
-### Projects that I'm currently working on 
-
-- <a href="" target="_blank" rel="noopener noreferrer">nothing :(</a>
-
-
-
+### languages that i am familiar with / currently learning:
+<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Lua" width="32px" src="https://cdn.simpleicons.org/lua/2C2D72" />
+<img align="left" alt="C++" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="C#" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
